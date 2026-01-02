@@ -4,6 +4,10 @@
 An AI-powered chatbot assistant that allows users to **upload documents (PDF/Text)** and **ask questions** in a conversational, web-based interface.  
 The chatbot retrieves relevant information from uploaded documents using embeddings and responds intelligently.
 
+
+https://github.com/user-attachments/assets/6bd338ff-c0f1-42a9-a9c9-2ea6272227a6
+
+
 The project is fully **Dockerized**, so anyone can run it without cloning the repository.
 
 ---
